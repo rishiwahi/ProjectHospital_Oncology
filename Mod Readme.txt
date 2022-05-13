@@ -1,5 +1,5 @@
-Oncology
-Sleepy068
+Psychiatry Department
+
 
 Installing:
 1. Extract the zip file (to where ever if need be)
@@ -13,8 +13,8 @@ Steam Path: C:\Program Files (x86)\Steam\steamapps\common\Project Hospital\Proje
 Troubleshooting:
 - Mod didn't load?
 Make sure the mod's path file is as follows:
-C:\Program Files (x86)\Steam\steamapps\common\Project Hospital\ProjectHospital_Data\StreamingAssets\Addons\Mod_Oncology
+C:\Program Files (x86)\Steam\steamapps\common\Project Hospital\ProjectHospital_Data\StreamingAssets\Addons\Mod_Psychiatry
 In the mod file should be Database, heaps of PNGs, steamworkshop ID & Preview.png
 
 - Bugs or issues?
-Please report any issues here: https://github.com/sleepy068/ProjectHospital_Oncology/issues
+Please report any issues here: 

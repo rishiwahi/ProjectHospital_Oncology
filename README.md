@@ -1,2 +1,2 @@
-# ProjectHospital_Oncology
-Oncology Department Mod for Project Hospital
+# ProjectHospital_Psychiatry
+Psychiatry Department Mod for Project Hospital

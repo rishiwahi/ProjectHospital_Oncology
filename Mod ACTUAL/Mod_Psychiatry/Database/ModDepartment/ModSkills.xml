@@ -1,0 +1,24 @@
+<Database>
+
+<GameDBSkill ID="SKILL_DOC_SPEC_PSYCH">
+	<AbbreviationLocID>SKILL_DOC_SPEC_PSYCH_DESCR</AbbreviationLocID>
+	<ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+	<IconIndex>403</IconIndex>
+
+	<CustomIconAssetRef>ASSET_MOD_ICON_PSYCH</CustomIconAssetRef>
+	<CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_PSYCH_DARK</CustomIconLightBackgroundAssetRef>
+
+	<ExtraLevelingPercent>100</ExtraLevelingPercent>
+</GameDBSkill>
+
+<GameDBSkill ID="SKILL_DOC_SPEC_PSYCH_SURGERY">
+	<AbbreviationLocID>SKILL_DOC_SPEC_PSYCH_SURG_DESCR</AbbreviationLocID>
+	<ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+	<IconIndex>2388</IconIndex>
+
+	<ExtraLevelingPercent>50</ExtraLevelingPercent>
+</GameDBSkill>
+
+</Database>

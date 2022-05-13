@@ -72,7 +72,7 @@ The Modding Community has been just as amazing, please be sure to check out thei
 - [url=https://steamcommunity.com/profiles/76561198905415440/myworkshopfiles/?appid=868360]Knabbel (Creator of Urology)[/url]
 
 Latest Version:
-https://github.com/sleepy068/ProjectHospital_Oncology/releases
+
 
 [b][u]Love My Mods?[/u][/b]
 Feel free to show your support and help me allocate more time towards modding!
